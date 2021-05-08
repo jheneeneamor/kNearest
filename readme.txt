@@ -1,0 +1,1 @@
+Comp307 Assignment 1 Part 1 - execute the jar file by using the command: java -jar Part.1- enter the name of the training set e.g    wine-training- enter the name of the test set e.g      wine-test- enter desired k number of neighbours
